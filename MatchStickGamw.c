@@ -1,4 +1,4 @@
-/* stay tuned guys */
+/* TRY  */
 
 #include<stdio.h>
 #include<stdlib.h>
