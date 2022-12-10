@@ -1,4 +1,4 @@
-/* TRY  */
+/* TRY TO BEAT */
 
 #include<stdio.h>
 #include<stdlib.h>
