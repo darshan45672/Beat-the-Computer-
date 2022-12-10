@@ -27,7 +27,7 @@ while (1) {
 
     if (m == 1) {
       printf("\nNumber of matches left = %d\n", m);
-      printf("You lost the Game\n");
+      printf("You lost the Game\n\t Better try next time");
       break;
     }
   }
