@@ -1,4 +1,4 @@
-/* TRY TO BEAT THE */
+/* TRY TO BEAT THE COMPUTER */
 
 #include<stdio.h>
 #include<stdlib.h>
